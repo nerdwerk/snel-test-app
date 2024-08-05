@@ -16,11 +16,8 @@
 </template>
 
 <style scoped>
-    .container {
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 60rem;
+    .welcome {
+        text-align: left;
     }
 
     .gallery {
